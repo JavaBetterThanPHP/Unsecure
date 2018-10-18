@@ -1,6 +1,6 @@
 # Unsecure
 
-## Issues :
+## Issues
 
 [Create a bug issue](https://github.com/kevinlonguet/Unsecure/issues/new?template=bug_issue.md)
 
