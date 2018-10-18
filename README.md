@@ -8,8 +8,9 @@
 
 ## Contributors
 
-[Contribution guide](https://github.com/JavaBetterThanPHP/Unsecure/blob/master/CONTRIBUTING.md)
-[Code of conduct](https://github.com/JavaBetterThanPHP/Unsecure/blob/master/CODE_OF_CONDUCT.rst)
+[Contribution guide](https://github.com/JavaBetterThanPHP/Unsecure/blob/master/CONTRIBUTING.md)  
+
+[Code of conduct](https://github.com/JavaBetterThanPHP/Unsecure/blob/master/CODE_OF_CONDUCT.rst)  
 
 ## Tools
  
