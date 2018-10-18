@@ -22,3 +22,6 @@
  
  Travis CI 
  https://travis-ci.com/JavaBetterThanPHP/Unsecure
+ 
+ Codacy 
+ https://app.codacy.com/projects
