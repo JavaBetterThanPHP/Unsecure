@@ -6,9 +6,10 @@
 
 [Propose a feature](https://github.com/kevinlonguet/Unsecure/issues/new?feature_issue.md)
 
-## Contribute
+## Contributors
 
-[See doc](https://github.com/kevinlonguet/Unsecure/issues/new?feature_issue.md)
+[Contribution guide](https://github.com/JavaBetterThanPHP/Unsecure/blob/master/CONTRIBUTING.md)
+[Code of conduct](https://github.com/JavaBetterThanPHP/Unsecure/blob/master/CODE_OF_CONDUCT.rst)
 
 ## Tools
  
