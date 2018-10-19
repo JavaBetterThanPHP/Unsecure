@@ -1,5 +1,17 @@
 # Unsecure
 
+## Run with Docker
+
+Clone the project and run this :
+
+```
+$ cd Unsecure
+
+$ composer install
+
+$ docker-compose up -d --build
+```
+
 ## Issues
 
 [Create a bug issue](https://github.com/kevinlonguet/Unsecure/issues/new?template=bug_issue.md)
