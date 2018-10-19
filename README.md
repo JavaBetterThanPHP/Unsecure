@@ -2,6 +2,18 @@
 
 This website has the goal to sell padlock. We are building every size, every shapes and every materials. Our goal is to provide a website to develop padlock's craft all over the world. We're building an open-source project to have the best experience for every contributors. We are using famous and strong tools such as Travis CI and Docker. We hope that you will also contribute to the project. Feel free to propose features or create severals issues to help us, the best you can. Thanks.
 
+## Run with Docker
+
+Clone the project and run this :
+
+```
+$ cd Unsecure
+
+$ composer install
+
+$ docker-compose up -d --build
+```
+
 ## Issues
 
 [Create a bug issue](https://github.com/kevinlonguet/Unsecure/issues/new?template=bug_issue.md)
