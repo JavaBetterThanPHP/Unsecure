@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/symfony
 
+.DS_store
+
 ### Symfony ###
 # Cache and logs (Symfony2)
 /app/cache/*
