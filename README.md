@@ -27,3 +27,5 @@ This website has the goal to sell padlock. We are building every size, every sha
  
  Codacy 
  https://app.codacy.com/projects
+ 
+ Heroku continuous integration
