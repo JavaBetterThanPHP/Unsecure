@@ -1,5 +1,5 @@
 <?php
-
+echo 'Bonjour unsecure';die;
 use Symfony\Component\ClassLoader\ApcClassLoader;
 use Symfony\Component\HttpFoundation\Request;
 
