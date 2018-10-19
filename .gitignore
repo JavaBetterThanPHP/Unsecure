@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/symfony
 
+.DS_store
+
 ### Symfony ###
 # Cache and logs (Symfony2)
 /app/cache/*
@@ -38,37 +40,3 @@
 ### Symfony Patch ###
 /web/css/
 /web/js/
-
-
-# End of https://www.gitignore.io/api/symfony
-
-
-### uncomment when upgrading to sf 3 or 4 ###
-
-
-## Email spool folder ##
-
-#/app/spool/*
-
-## Cache, session files and logs (Symfony3) ##
-# /var/cache/*
-# /var/logs/*
-# /var/sessions/*
-# !var/cache/.gitkeep
-# !var/logs/.gitkeep
-# !var/sessions/.gitkeep
-
-## Logs (Symfony4) ##
-
-#/var/log/*
-#!var/log/.gitkeep
-
-## Managed by Composer ##
-
-# /var/bootstrap.php.cache
-# !bin/console
-# !bin/symfony_requirements
-
-## Parameters ##
-
-# /app/config/parameters.ini
